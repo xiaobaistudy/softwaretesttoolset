@@ -2,5 +2,21 @@
 
 ## web端
   - [Fiddler](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe)
-  - [charles](https://dl-download.csdn.net/down11/20180819/c5c58f6753b46ff5a46cd976cc1fad6a.rar?response-content-disposition=attachment%3Bfilename%3D%22charles.rar%22&security-token=CAISgwJ1q6Ft5B2yfSjIr5bBLuKAq7hC8KSASVX%2F1jQ9Y7gZjojIizz2IHxFf3FoCOEYv%2Fk1nWlU6%2FoTlqF%2FTIBDQUvNYZPsKyz7FkXzDbDasumZsJYw6vT8a1fxZjf%2F2MjNGaCbKPrWZvaqbX3diyZ32sGUXD6%2BXlujQ%2BDr6Zl8dYY4UxX6D1tBH8wEAgp5tI1gQhm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmHG85R%2FYsrZJ%2FtuvecD%2FMJI3Z8kvC4uPsbYoJvab4kl58ANX8ap6tqtA9Arcs8uVa1sruEnXaLKMo4wxfVIjP%2FFmRvIVtprnieY9tuiWkJ%2Fs25qImF%2BBkY61GoABnrqf8p%2BGQ89EODcxe5hRQ15htKNdv7ZDX9XIMb3dJoAr4XDu6ercg56MbE2dEVxGBNBaZH2GQVA585AilwMd77S4Mzfv8KiIAYkYs%2BMT3Irq0L5TVrcx2zh0hi4nazkY46WgXAsmUvDqzaR1l3J9mCYGM13nYMqkHlGMxhQ6XYs%3D&OSSAccessKeyId=STS.NUteX4FgcGfkKsN24ho75aMci&Expires=1584715119&Signature=S8G8MJCfFxlXqotLgVB8donRfg4%3D)
+  - [charles](https://www.charlesproxy.com/download/#)
+  - [charles 4.5.6-win64](https://www.charlesproxy.com/assets/release/4.5.6/charles-proxy-4.5.6-win64.msi)
+  - [mitmproxy官网](https://www.mitmproxy.org/)
+  - [mitmproxy 5.0.1](https://snapshots.mitmproxy.org/5.0.1/mitmproxy-5.0.1-windows-installer.exe)
+ 
+## 移动端
+  - [adb 单文件](https://adbshell.com/upload/adb.zip)
+  - [adb](https://apkinstaller.com/)
   
+## Mac
+  - [brew官网](https://brew.sh/index_zh-cn)
+  - brew的安装
+  `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+  - [brew帮助文档](https://docs.brew.sh/)
+  
+## 其它
+  - [TeamViewer](https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe)
+  - [Notepad++ 7.8.1](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.x64.exe)
