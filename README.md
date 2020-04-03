@@ -17,6 +17,16 @@
   - [brew帮助文档](https://docs.brew.sh/ "brew帮助文档")
   
 ## 其它
+  - [JDK8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK8下载页")
+  - [JDK9](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK9下载页")
+  - [JDK10](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK10下载页")
+  - [JDK11](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK11下载页")
+  - [JDK12](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK12下载页")
+  - [JDK13](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK13下载页")
+  - [JDK14](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK14下载页")
+  - [JDK最新版下载页](https://www.oracle.com/java/technologies/javase-downloads.html "最新版下载页")
+  - [JMeter5.2.1](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/apache-jmeter-5.2.1.zip "JMeter5.2.1")
+  - [JMeter最新版下载页](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/ "JMeter最新版")
   - [Python最新版下载页](https://www.python.org/downloads/ "Python最新版下载页")
   - [Python所有版本](https://www.python.org/ftp/python/ "Python所有版本")
   - [Python 3.8.2](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe "Python 3.8.2")
