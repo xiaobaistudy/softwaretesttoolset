@@ -2,18 +2,17 @@
 
 ## web端
   - [Fiddler](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe)
-  - [charles](https://www.charlesproxy.com/download/#)
+  - [charles下载页](https://www.charlesproxy.com/download/#)
   - [charles 4.5.6-win64](https://www.charlesproxy.com/assets/release/4.5.6/charles-proxy-4.5.6-win64.msi)
-  - [mitmproxy官网](https://www.mitmproxy.org/)
+  - [mitmproxy 官网](https://www.mitmproxy.org/)
   - [mitmproxy 5.0.1](https://snapshots.mitmproxy.org/5.0.1/mitmproxy-5.0.1-windows-installer.exe)
  
 ## 移动端
-  - [adb 单文件](https://adbshell.com/upload/adb.zip)
-  - [adb](https://apkinstaller.com/)
+  - [adb.zip](https://adbshell.com/upload/adb.zip)
   
 ## Mac
   - [brew官网](https://brew.sh/index_zh-cn)
-  - brew的安装
+  - brew的安装命令
   `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
   - [brew帮助文档](https://docs.brew.sh/)
   
