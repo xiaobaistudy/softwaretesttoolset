@@ -28,11 +28,13 @@
   - [JDK最新版下载页](https://www.oracle.com/java/technologies/javase-downloads.html "最新版下载页")
   - [JMeter5.2.1](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/apache-jmeter-5.2.1.zip "JMeter5.2.1")
   - [JMeter最新版下载页](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/ "JMeter最新版")
+  - [seleniumJar下载页](http://selenium-release.storage.googleapis.com/index.html "seleniumJar下载页")
   - [Python最新版下载页](https://www.python.org/downloads/ "Python最新版下载页")
   - [Python所有版本](https://www.python.org/ftp/python/ "Python所有版本")
   - [Python 3.8.2](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe "Python 3.8.2")
   - [Pycharm 社区版](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC "Pycharm 社区版")
   - [Pycharm 专业版](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows "Pycharm 专业版")
+  - [jetbrains工具下载页](https://www.jetbrains.com/ "jetbrains工具下载页")
   - [TeamViewer](https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe "TeamViewer")
   - [Notepad++ 7.8.1](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.x64.exe "Notepad++ 7.8.1")
   
