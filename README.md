@@ -1,4 +1,4 @@
-# 软件测试工具集
+# 软件测试工具集(小白提供，微信公众号：big_touch)
 
 ## web端
   - [Fiddler](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe)
