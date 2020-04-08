@@ -35,6 +35,7 @@
   - [Pycharm 社区版](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC "Pycharm 社区版")
   - [Pycharm 专业版](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows "Pycharm 专业版")
   - [jetbrains工具下载页](https://www.jetbrains.com/ "jetbrains工具下载页")
+  - [PostMan win64下载](https://dl.pstmn.io/download/latest/win64 "postman win64下载")
   - [TeamViewer](https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe "TeamViewer")
   - [Notepad++ 7.8.1](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.x64.exe "Notepad++ 7.8.1")
   
