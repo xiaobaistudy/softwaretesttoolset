@@ -28,6 +28,8 @@
   - [JDK最新版下载页](https://www.oracle.com/java/technologies/javase-downloads.html "最新版下载页")
   - [JMeter5.2.1](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/apache-jmeter-5.2.1.zip "JMeter5.2.1")
   - [JMeter最新版下载页](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/ "JMeter最新版")
+  - [chromedriver下载页](http://npm.taobao.org/mirrors/chromedriver/ "chromedriver.exe下载页")
+  - [firefoxdriver下载页](https://github.com/mozilla/geckodriver/releases/ "firefoxdriver下载页")
   - [seleniumJar下载页](http://selenium-release.storage.googleapis.com/index.html "seleniumJar下载页")
   - [Python最新版下载页](https://www.python.org/downloads/ "Python最新版下载页")
   - [Python所有版本](https://www.python.org/ftp/python/ "Python所有版本")
