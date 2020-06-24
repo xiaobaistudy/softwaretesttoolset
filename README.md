@@ -41,6 +41,10 @@
   - [Jenkins War包下载页](http://updates.jenkins-ci.org/download/war/ "jenkins war包下载页")
   - [TeamViewer](https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe "TeamViewer")
   - [Notepad++ 7.8.1](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.x64.exe "Notepad++ 7.8.1")
+  - [TortoiseSVN-1.14](https://osdn.net/projects/tortoisesvn/storage/1.14.0/Application/TortoiseSVN-1.14.0.28885-x64-svn-1.14.0.msi/ "TortoiseSVN-1.14.0.28885-x64-svn-1.14.0.msi")
+  - [jython-standalone-2.7.2](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar "jython-standalone-2.7.2.jar")
+  - [Git-2.27.0-64-bit](https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe "Git-2.27.0-64-bit.exe")
+  - [VMware-workstation-full-15](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-15.5.6-16341506.exe "VMware-workstation-full-15.5.6-16341506.exe")
   
 ## 服务
   | 服务名 | 支持 |
