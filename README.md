@@ -25,7 +25,7 @@
   - [JDK12](https://www.oracle.com/java/technologies/javase-jdk12-downloads.html "JDK12下载页")
   - [JDK13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html "JDK13下载页")
   - [JDK14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html "JDK14下载页")
-  - [JDK所有版本](https://jdk.java.net/archive/ "JDK所有版本")
+  - [JDK所有版本,若其他需要登陆使用该地址即可](https://jdk.java.net/archive/ "JDK所有版本")
   - [JDK最新版下载页](https://www.oracle.com/java/technologies/javase-downloads.html "最新版下载页")
   - [Tomcat7 64位zip](https://mirror.bit.edu.cn/apache/tomcat/tomcat-7/v7.0.105/bin/apache-tomcat-7.0.105-windows-x64.zip "Tomcat7 64位zip")
   - [Tomcat8 64位zip](https://mirror.bit.edu.cn/apache/tomcat/tomcat-8/v8.5.57/bin/apache-tomcat-8.5.57-windows-x64.zip "Tomcat8 64位zip")
