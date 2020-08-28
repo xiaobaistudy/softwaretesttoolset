@@ -44,7 +44,7 @@
   - [TeamViewer](https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe "TeamViewer")
   - [Notepad++ 7.8.1](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.x64.exe "Notepad++ 7.8.1")
   - [gradle 下载](https://downloads.gradle-dn.com/distributions/gradle-5.6.4-all.zip "gradle下载页")
-  - [Maven 下载] (https://mirrors.bfsu.edu.cn/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip "Maven3下载页")
+  - [Maven 下载](https://mirrors.bfsu.edu.cn/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip "Maven3下载页")
   - [TortoiseSVN-1.14](https://osdn.net/projects/tortoisesvn/storage/1.14.0/Application/TortoiseSVN-1.14.0.28885-x64-svn-1.14.0.msi/ "TortoiseSVN-1.14.0.28885-x64-svn-1.14.0.msi")
   - [jython-standalone-2.7.2](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar "jython-standalone-2.7.2.jar")
   - [Git-2.27.0-64-bit](https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe "Git-2.27.0-64-bit.exe")
