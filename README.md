@@ -2,6 +2,7 @@
 
 ## web端
   - [Fiddler](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe "Fiddler下载")
+  - [Fiddler 最新版-win]()
   - [charles下载页](https://www.charlesproxy.com/download/# "charles下载页")
   - [charles 4.5.6-win64](https://www.charlesproxy.com/assets/release/4.5.6/charles-proxy-4.5.6-win64.msi "charles 4.5.6-win64")
   - [charles 4.5.6-mac64](https://www.charlesproxy.com/assets/release/4.5.6/charles-proxy-4.5.6.dmg "charles 4.5.6-mac64")
@@ -18,13 +19,6 @@
   - [brew帮助文档](https://docs.brew.sh/ "brew帮助文档")
 
 ## 服务端
-  - [JDK8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html "JDK8下载页")
-  - [JDK9](https://www.oracle.com/java/technologies/javase-jdk9-downloads.html "JDK9下载页")
-  - [JDK10](https://www.oracle.com/java/technologies/javase-jdk10-downloads.html "JDK10下载页")
-  - [JDK11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html "JDK11下载页")
-  - [JDK12](https://www.oracle.com/java/technologies/javase-jdk12-downloads.html "JDK12下载页")
-  - [JDK13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html "JDK13下载页")
-  - [JDK14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html "JDK14下载页")
   - [JDK所有版本,若其他需要登陆使用该地址即可](https://jdk.java.net/archive/ "JDK所有版本")
   - [JDK最新版下载页](https://www.oracle.com/java/technologies/javase-downloads.html "最新版下载页")
   - [Tomcat7 64位zip](https://mirror.bit.edu.cn/apache/tomcat/tomcat-7/v7.0.105/bin/apache-tomcat-7.0.105-windows-x64.zip "Tomcat7 64位zip")
@@ -34,6 +28,7 @@
   - [Python最新版下载页](https://www.python.org/downloads/ "Python最新版下载页")
   - [Python所有版本](https://www.python.org/ftp/python/ "Python所有版本")
   - [Python 3.8.2](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe "Python 3.8.2")
+  - [Filezilla 下载](https://download.filezilla-project.org/client/FileZilla_3.50.0_win64_sponsored-setup.exe "Filezilla 下载页")
 
 ## 其它
   - [JMeter5.2.1](https://mirrors.tuna.tsinghua.edu.cn/apache//jmeter/binaries/apache-jmeter-5.2.1.zip "JMeter5.2.1")
@@ -48,6 +43,8 @@
   - [向日葵远程控制工具 64位](http://dl-cdn.oray.com/sunlogin/windows/SunloginClient_10.5.0.29613_X64.exe "向日葵远程控制工具")
   - [TeamViewer](https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe "TeamViewer")
   - [Notepad++ 7.8.1](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.1/npp.7.8.1.Installer.x64.exe "Notepad++ 7.8.1")
+  - [gradle 下载](https://downloads.gradle-dn.com/distributions/gradle-5.6.4-all.zip "gradle下载页")
+  - [Maven 下载] (https://mirrors.bfsu.edu.cn/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip "Maven3下载页")
   - [TortoiseSVN-1.14](https://osdn.net/projects/tortoisesvn/storage/1.14.0/Application/TortoiseSVN-1.14.0.28885-x64-svn-1.14.0.msi/ "TortoiseSVN-1.14.0.28885-x64-svn-1.14.0.msi")
   - [jython-standalone-2.7.2](https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.2/jython-standalone-2.7.2.jar "jython-standalone-2.7.2.jar")
   - [Git-2.27.0-64-bit](https://github.com/git-for-windows/git/releases/download/v2.27.0.windows.1/Git-2.27.0-64-bit.exe "Git-2.27.0-64-bit.exe")
